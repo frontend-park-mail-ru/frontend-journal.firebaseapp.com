@@ -1,2 +1,4 @@
-# frontend-journal.firebaseapp.com
-Frontend Journal application
+# Frontend Journal application
+frontend-journal.firebaseapp.com
+
+[Перейти к оценкам](https://frontend-journal.firebaseapp.com/)
